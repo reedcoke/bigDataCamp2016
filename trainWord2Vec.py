@@ -7,6 +7,7 @@ import nltk
 import gensim
 
 class MySentences(object):
+    #Object to stream sentences in a memory-independent way
     def __init__(self, dirname):
         self.dirname = dirname
 
@@ -18,9 +19,10 @@ class MySentences(object):
                 lines = F.readlines()
                 F.close()
                 for line in lines:
-                    yield nltk.word_tokenize(line.strip())
+                    yield line.strip().split()
 
 def main():
+    #Stream the sentences into the model for training
     sentenceDir = 'LOTR/sentences'
     sentences = MySentences(sentenceDir) # a memory-friendly iterator
     model = gensim.models.Word2Vec(sentences)
