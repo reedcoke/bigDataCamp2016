@@ -1,0 +1,319 @@
+Gaffer	1
+Hal	2
+Eriador	2
+Galadriel	33
+Celebrimbor	1
+Náli	1
+Annon	1
+Thranduil	1
+Amroth	2
+Buckland	11
+Moon	15
+Silvan Elves	1
+Samwise	2
+Loth	1
+Hill	11
+Proudfoot	2
+Gimli	113
+Elbereth	3
+Thangorodrim	1
+Arwen Evenstar	1
+Gore	1
+Strider	192
+Menelvagor	1
+Fang	2
+Angmar	2
+Frodo	995
+Kindler	1
+Caradhras	2
+Lumpkin	8
+Esgalduin	1
+Nob	7
+Goatleaf	1
+Ranger	1
+Wight	2
+Christopher	1
+John Ronald Reuel Tolkien	1
+Lady Arwen	1
+Dawn	1
+Silmarils	1
+Dori	1
+Bolger	10
+Dimrill Dale	4
+Grimbeorn	1
+Grubb	1
+Otho	6
+Beorn	1
+Mr Frodo	1
+Boffin	2
+Tom Bombadillo	3
+Valimar	1
+Drogo Baggins	1
+Bree	44
+Ori	3
+Denethor	3
+Wolf	2
+Lobelia	7
+Grubbs	2
+Hornblower	1
+Bill Ferny	10
+Haldir	38
+Boromir	123
+Gandalf	24
+Undómiel	1
+Holman	2
+Peregrin Took	3
+Sackville-Bagginses	1
+Sam	375
+Maggot	3
+Bagshot Row	1
+FRODO BAGGINS	1
+Isildur Elendil	1
+Lotho	2
+Meneldil	1
+Zirak	1
+Chubbs	1
+Eärendil	4
+N. Smith	1
+Milo	1
+Brandybucks	3
+Elessar	2
+Gondor	10
+Woodhall	3
+Narvi	2
+Yéni	1
+Minas Morgul	1
+Farmer Maggot	2
+Sun	1
+Tinúviel	2
+Master Gorbadoc	1
+Frodo Baggins	5
+Lebennin	1
+Shire	24
+Anárion	3
+Saruman	25
+Sam Ford	1
+Melilot Brandybuck	1
+Longbottom	2
+Glorfindel	18
+Grip	1
+Thorin Oakenshield	2
+Mellon	1
+Elladan	3
+Brockhouse	2
+Isen	2
+Lórien	17
+Amon Lhaw	4
+Rauros	3
+Sam Gamgee	17
+Bombadil	8
+Lindir	2
+Mithrandir	1
+Andúril	2
+Oldbuck	1
+Tol Brandir	1
+Will Whitfoot	1
+Shadowfax	2
+Ham Gamgee	1
+Flói	2
+Mirkwood	4
+Sandheaver	1
+Parth Galen	1
+Andy	1
+Rich	1
+Sam insisted.’ Frodo	1
+B.B.	1
+Brown	2
+Gamgee	5
+Iarwain Ben-adar	1
+Marcho	1
+Beren	11
+Varda Oiolossëo	1
+Swift	1
+Brockhouses	1
+Silmaril	1
+Archet	2
+Pippin	164
+Lady Galadriel	5
+Bob	9
+Erestor	4
+Elrond	79
+Sarn Gebir	7
+Sancho Proudfoot	1
+Eldamar	1
+Tom Bombadil’s	2
+Shathûr	1
+Longbottom Leaf	1
+Buckler	1
+Bilbo	278
+Barahir	2
+Doner	1
+Sammie	1
+Túrin	1
+Thain Peregrin	1
+Fanuilos	1
+Nenya	1
+Gildor	21
+Michel Delving Mathom-house	2
+Bilbo Baggins	8
+Aiglos	1
+Thrór	1
+Elendil	6
+Weathertop	4
+Rushlight	1
+Bolgers	2
+Blanco	1
+Glóin	23
+Galdor	6
+Hugo	1
+Elf	1
+Hornblowers	2
+Cirdan	1
+Bree I	1
+Cerin Amroth	4
+Nen Hithoel	1
+Black	1
+Tom	87
+Lothlórien	13
+Gorgoroth	1
+Isildur	11
+Orophin	1
+Combe	2
+Anduin	5
+Dale	8
+Sméagol	8
+Mitheithel	1
+Fredegar Bolger	3
+Lúthien	7
+Tom Bombadil	24
+Tobold Hornblower	1
+Círdan	1
+Tom Bom	1
+Bagginses	2
+Master Elrond	1
+Thorin	5
+Gil-galad	1
+Osgiliath	1
+Meriadoc	5
+Meriadoc Brandybuck	1
+Ethir Anduin	1
+Sancho	1
+Dora	1
+Norbury	1
+Silvertine	1
+ADELARD TOOK	1
+Goodbody	1
+Orodruin	1
+Dáin	8
+Sirannon	3
+Nai	2
+Crickhollow	1
+Harad	2
+Gates	1
+Eregion	1
+Burrows	1
+Barazinbar	1
+Gilthoniel	3
+Findegil	1
+Daeron	1
+Will Haldir	1
+Dwarrowdelf	1
+Hobbit	2
+Harry	2
+Dear Frodo	1
+Sam Gamgee’s	1
+Dwalin	1
+Imladris	1
+Adelard	1
+Withywindle	1
+Tom groan	1
+Folco	1
+Ted	7
+Wilderland	1
+Arwen	6
+Butterbur	25
+Rohan	23
+Loudwater	1
+Odo	1
+Baggins	27
+Elrond Halfelven	1
+Rúmil	3
+Master Underhill	1
+Celeborn	17
+Gwaihir	2
+Óin	1
+MILO BURROWS	1
+Bill	10
+Dúnadan	1
+Caras Galadhon	3
+Goldberry	25
+Balin	22
+Steward Faramir	1
+Rory Brandybuck	2
+Tim	2
+Bush	2
+Lóni	1
+Ted Sandyman	3
+Bruinen	2
+Dior Thingol	1
+Holly	1
+Rory	1
+Brandy Hall	1
+Stock	1
+Théoden	1
+Amon Sûl	2
+Bowman	1
+Power	1
+Baranduin	1
+Peregrin	11
+Barliman Butterbur	1
+Michel Delving	6
+Déagol	9
+Carn Dûm	2
+Farthing	1
+Legolas	88
+Merry	53
+Burrowses	1
+Master Boromir	1
+Woodmen	1
+Bard	2
+Brandybuck	6
+Gildor Inglorion	1
+Mad Baggins	1
+Odo Proudfoot	1
+Sauron	59
+Primula Brandybuck	1
+Minas Anor	2
+Grey	3
+Narsil	3
+Lúthien Tinúviel	2
+Thain	3
+Cirith Gorgor	1
+Gorbadoc	1
+Húrin	1
+Sandyman	4
+Nimrodel	2
+Westron	1
+Bombur	1
+Isengard	1
+Argonath	1
+Underhill	17
+Silverlode	5
+Underhills	1
+Moria	2
+Drogo	7
+Radagast	6
+Amon Hen	9
+Berúthiel	1
+Gondolin	1
+Ancalagon	1
+Strider Frodo	1
+Elrohir	3
+Merry Brandybuck	4
+Orthanc	1
+Tuckborough	1
+Folco Boffin	2
+Fredegar	3
+Varda	3
+Deadmen	1
+Gorhendad Oldbuck	1

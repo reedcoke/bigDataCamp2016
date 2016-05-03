@@ -1,0 +1,637 @@
+Lindórië	1
+Cuiviénen	2
+Elenwë	1
+Galadriel	36
+Celebrimbor	1
+Arda Tulkas	1
+Moon	10
+Ringil	1
+Ossë	6
+Cirith	1
+Dwarvish Gabilgathol	1
+Elbereth	5
+Valmar	1
+Val	2
+Aglon	2
+Sindar Tauron	1
+Isildur	9
+Sindarin Udûn	1
+Elwë	11
+Barad Eithel	3
+Nómin	1
+Amon Ethir	6
+Mithlond	1
+Melian	103
+Námo	1
+Rathlóriel	2
+Wolf	3
+Belegund	2
+Cabed Naeramarth	4
+groth	1
+Amon Gwareth	5
+Mirkwood	2
+Carcharoth	15
+Elentári	3
+Loeg	1
+Golodh	1
+Beleg Strongbow	4
+Dairuin	1
+Malach	2
+Círyon	1
+Núrnen	1
+Vingilot	2
+Yavanna Kementári	2
+Béma	1
+Atani	6
+Almaren	2
+Marach	6
+Sirion Ulmo	1
+Huan	44
+Beleriand	19
+Amon Obel	5
+Narsil Isildur	1
+Valandor	1
+Amlach	3
+Hador	7
+Inziladûn	2
+Neldoreth	2
+Hathol	1
+Oiolossë	1
+Pinnath Gelin	1
+Emyn Beraid	3
+Fëanturi	1
+Eithel Sirion	2
+Echoriath	1
+Sarn Athrad	1
+Nahar	3
+Camlost	1
+Amon Uilos	3
+Fuinur	1
+Astaldo	1
+Dior Eluchíl	2
+Morwen	33
+Lammoth	2
+Carach Angren	1
+Aiya Eldalië	1
+Úlairi	2
+Elendil	30
+Elvenesse	1
+Nan Tathren	1
+Tumunzahar	1
+Eglath	2
+Arien	10
+Gildor	1
+Idril Celebrindal	6
+Nienna	10
+Hewer	1
+Hadhodrond	1
+Anduin	3
+Dale	1
+Rothinzil	3
+Amon Amarth	5
+Talath Dirnen	2
+Quenya	4
+Aranwë	1
+Gil-galad	1
+Finarfin	17
+Atalantë	1
+Fingon Fingolfin	1
+Mindon Eldaliéva	2
+Nandor Said	1
+Nimloth	7
+Arda Melkor	1
+Minas Morgul	1
+Talath Rhúnen	1
+Dorlas	9
+Finwë	12
+Arien Morgoth	1
+Beren Son	1
+Maglor	10
+Thangorodrim	4
+Imladris	1
+Elerrína	1
+Narya	2
+Manwë	53
+Hador Goldenhead	2
+Arwen	2
+Nevrast	3
+Ost-in-Edhil	2
+Elurín	2
+Legolas	1
+Valar Elendil	1
+Valar	17
+Felagund	21
+Silmarien	1
+Elwing	12
+Bald Hill	1
+Radhruin	1
+Akallabêth	2
+Felagund Bëor	1
+Edrahil	1
+Tumladen	3
+Tûr Haretha	1
+Himring	1
+Helcaraxë	1
+Indis Vanyarin Elf	1
+Ilúvatar	61
+Belfalas	1
+Sauron Beren	1
+Gwaith-i-Mírdain	1
+Baran	3
+Gimilkhâd	4
+Dagor-nuin-Giliath	2
+Teiglin	3
+King Felagund	1
+Wilt	3
+Minas Anor	3
+Beren Erchamion	3
+Sirion	11
+Woods	2
+Húrin	79
+Alqualondë	3
+Isil	1
+Brodda	4
+Nessa	3
+Ungoliant	7
+Fírimar	1
+Ramdal	3
+Elenna	4
+Nargothrond	31
+Ormal	2
+Atanatári	1
+Elda	1
+Aros	1
+Alkarinquë	1
+Curufinwë	2
+Dagnir Glaurunga	1
+Beleg Cúthalion	2
+Arminas	2
+Dor Daedeloth	2
+Aranrúth	2
+Dúnedain	1
+Vanyar	4
+Amon Uilos Sindarin	1
+Luin	2
+Wilwarin	1
+Kindler	2
+Orodreth	9
+Lúthien	111
+Thorondor	8
+Illuin	2
+Aulë	22
+Dimrost	1
+Haudh-en-Nirnaeth	1
+Varda Elentári	1
+Adan	1
+Turgon	69
+Boromir	2
+Nan Elmoth	15
+Eärendil	31
+Gelydh	1
+Ciryon	1
+Aerin	5
+Dimbar	4
+Indis	2
+Elwë Singollo	3
+Galadhriel	1
+Nénar	1
+Elros	13
+Belthil	1
+Glirhuin	1
+Ulmo	42
+King Thingol	5
+Black Foe	1
+Amandil	9
+Fingolfin	58
+Narog	8
+Fimbrethil	1
+Joy	1
+Fingon	34
+Eriador Imladris	1
+Sauron	202
+Angband	11
+Eluréd	3
+Dior	3
+Minas Ithil	2
+Rían	2
+Falathrim	1
+Telperion	4
+Anglachel	5
+Khuzdul	1
+Araman	3
+Doriath	22
+Rainer	1
+Arien A Maia	1
+Anadûnë	1
+Hithaeglir	1
+Ibun	1
+Hithaeglin	1
+Mormegil	1
+Amon Ereb	7
+Quenya Valarauko	1
+Ered Luin	3
+Anarríma	1
+Túrin Turambar	2
+Curunír	5
+Thereupon Fëanor	1
+Narn	1
+Bliss	3
+Bregor	1
+Eglador	1
+Brandir	19
+Taur-im-Duinath	2
+Lady Haleth	3
+Maeglin Aredhel Ar-Feiniel	1
+North	3
+Valacirca	1
+Melian Melian	1
+Eilinel	8
+Vána	3
+Valandil	3
+Aldaron	1
+Mar-nu-Falmar	3
+Vilya	2
+Avathar	1
+Melkor	89
+Brethil	7
+Elendili	2
+Moriquendi	1
+Gwindor	29
+Amon Rûdh	16
+Dagor Bragollach	5
+Daeron	8
+Dor Dínen	1
+Hoarwell	1
+Alcarinquë	1
+Ossiriand	1
+Mithrim	3
+Teiglin Túrin	1
+Belegaer	2
+Mandos	22
+Rohan	10
+Amrod	2
+Barad Nimras	3
+Caranthir	13
+Elemmírë	4
+Celeborn	1
+Gelion	7
+Balar	1
+Neithan	2
+Falathar	2
+Duilwen	1
+Maia	5
+Balan	2
+Silmarien Daughter of Tar-Elendil	1
+Alcarondas	1
+Nauglamír	1
+Helluin	3
+Sindar	7
+Valmar Melkor	1
+Naugrim	4
+Noldor	2
+Taras Mountain	1
+Cair Andros	1
+Vinyamar	2
+Angrist	5
+Eressëa	6
+Dagor Aglareb	3
+Voronwë	2
+Nienor	9
+Westernesse	1
+Laurelin Varda	1
+Narsil	3
+Brethil Halmir	1
+Huor	1
+Hísimë	1
+Dirhavel	1
+Calaquendi	2
+Curufin	35
+Isengard	4
+Uldor	1
+Belegost	7
+Radagast	3
+Eldar	142
+Telchar	3
+Angrod	4
+Khazâd	1
+Haudh-en-Ndengin	2
+Sindarin Golodh	1
+Valaraukar	1
+Grond	1
+Celegorm	22
+Lady Aredhel	1
+Handir	1
+Malach Aradan	2
+Elwing Dior	1
+Hill	2
+Hildórien	2
+Rómenna	1
+Morgoth Bauglir	3
+Haudh-en-Arwen	2
+Ninquelótë	1
+Morgoth Thorondor	1
+Pelóri	2
+Ginglith	1
+Haudh-en-Elleth	2
+Gothmog	4
+Wildman	4
+Finduilas Orodreth	1
+Carnil	1
+Amon Rûdh Túrin	1
+Culúrien	1
+Nightingale	1
+Dior Aranel	1
+Mahtan	2
+Aegnor	3
+Haldar	5
+Calenardhon	1
+Hithlum	23
+Fëanáro	1
+Gorlim	6
+Eru Ilúvatar	2
+Gelmir	2
+Idril Turgon	2
+Haldad	2
+Khîm	1
+Anduril	1
+Ar-Pharazôn	6
+Gondor	11
+Utumno	3
+Valimar	1
+Nen Hithoel	1
+Valinor	8
+Caras Galadon	1
+Finrod Felagund	9
+Emeldir	1
+Tauron	1
+Anárion	3
+Saruman	5
+Tar-Ancalimon	1
+Ephel Brandir	3
+Glingal	1
+Aratar	1
+Ereinion	1
+Easterling	3
+Idril	9
+Mablung	25
+Mardil	3
+Annael	1
+Bombadil	1
+Girithron	1
+Bauglir	1
+Anfauglir	1
+Legolin	1
+Osgiliath	3
+Númenor	7
+Finrod	11
+Uinen	6
+Celebrindal	2
+Ilmarin	1
+Inzilbêth	2
+Maedhros	42
+Dane	1
+Talath Rhunen	1
+Beleg	51
+Eithel Ivrin	1
+Elrond	19
+Sarn Gebir	1
+Gorthaur	2
+Eldamar	3
+Henneth Annun	1
+Rána	1
+Greater Gelion	1
+Yea	1
+Hini Ilúvataro	1
+Neldoreth Lúthien	1
+Ingwë	3
+Aldudénië	1
+Carven	1
+Aman	95
+Nightingales	1
+Númenórë	1
+Bëor	15
+Esgalduin	3
+Cerin Amroth	2
+Lorgan	1
+Gorgoroth	1
+Sindarin Peredhel	1
+Sindarin	7
+Melian Húrin	1
+Tar-Palantir	3
+Anfauglith	2
+Anar Quenya	1
+Tarn Aeluin	1
+Hador Lórindol	5
+Bar-en-Danwedh	3
+Dark Elf	2
+Angrenost	1
+Brandir son of Handir	1
+Oromë	23
+Ana	1
+Morgoth	187
+Tuor	25
+Nogrod	2
+Túrin Turambar Rían	1
+Mîm	8
+Quenya Noldo	2
+Nargothrond Turambar	1
+Yavanna	51
+Eru	27
+Taniquetil Manwë	1
+Nen Girith	3
+Thingol	78
+Dior Thingol	1
+Beren Camlost	1
+Taur-nu-Fuin	2
+Cirith Ninniach	2
+Amon Sûl	4
+Long Beren	1
+Hunter	1
+Ered Lindon	14
+Olwë	8
+Tilion	5
+Glamhoth	1
+Urimë	1
+Pharazôn	2
+Rumour	1
+Anar	6
+Míriel	9
+Grey	2
+Lúthien Tinúviel	7
+Orodruin	1
+Ilmarë	1
+Ezellohar	3
+Hareth Daughter of Helmir	1
+Edain	1
+Galadriel Daughter of Finarfin	1
+Gondolin	20
+Ered Lómin	3
+Anguirel Eöl	1
+Arnor	5
+Númen	1
+Hunthor	3
+Eönwë	8
+Gabilgathol	1
+Aredhel	21
+Cirith Thoronath	2
+Guy Kay	1
+Sun Beleriand	1
+Quendi	1
+Glaurung	40
+Fanuidhol	1
+Vása	1
+Wolf-Sauron	1
+Nurtalë Valinóreva	1
+Luinil	2
+Cúthalion	1
+John Ronald Reuel Tolkien	1
+Iarwain	1
+Silmarils	2
+Greenwood	3
+Herumor	1
+Hírilorn	1
+Baragund	2
+Gonnhirrim	1
+Denethor	4
+Calacirya	1
+Kementári	4
+Hareth	2
+Nan Dungortheb	7
+Annatar	1
+Haldir	5
+Lanlhir Lamath	1
+Serindë	1
+OE	1
+Níniel Nienor	1
+Estë	3
+Balrogs	5
+Taniquetil	13
+Halmir	3
+Dagnir	2
+Eledhwen	2
+Anglachel Gwindor	1
+Nardol	1
+Mithrandir	19
+Lothlann	2
+Quenya Anar	1
+Silpion	1
+Eärnil	1
+Ar-Gimilzôr	1
+Harad	1
+Glóredhel	3
+Lúthien Thingol	2
+Malinalda	1
+Nantathren	1
+Serech	1
+Glorfindel	4
+Quenya Sindacollo	1
+Herunúmen	1
+Rohirrim	2
+Lórien	8
+Níniel	17
+Amon Gwareth Gondolin	1
+Tar-Atanamir	1
+Gimilzôr	1
+Quenya Ninquelótë	1
+Ainur	2
+Draugluin	4
+Andram	1
+Míriel Serindë	1
+Morwen Eledhwen	3
+Maiar	1
+Húrin Thalion	1
+Salmar	1
+Loeg Ningloron	2
+Gorthol	4
+Saeros Nandorin Elf	1
+Christopher Tolkien	2
+Lindon Gil-galad	1
+Greymantle	1
+Meneldil	1
+Magor	2
+Bilbo	2
+Barahir	20
+Bruinen	1
+Maia Salmar	1
+Túrin	112
+Avari	11
+Mount Taras	1
+Serni	1
+Círdan	10
+Finduilas	5
+Elf	3
+Lanthir Lamath	3
+Linaewen	1
+Master Elrond	1
+Noldolantë	1
+Mitheithel	1
+Aredhel Turgon	3
+Nan El-moth	1
+Gurthang	9
+Silmaril	8
+Saeros	2
+Rath Dínen	1
+Haladin	3
+Maeglin	36
+Mindon	1
+Ephel Dúath	5
+Gilraen	1
+Fëanor	48
+Rúmil	2
+Arda	74
+Haleth	15
+Laer Cú Beleg	2
+Melian A Maia	1
+Lindon	17
+Ascar	3
+Mindolluin	3
+Annúminas	1
+Nirnaeth Arnoediad	4
+Ered Nimrais	1
+Nandor	1
+Yavannie	1
+Eluchíl	2
+Beren	163
+Nerdanel	2
+Sarn Athrad Beren	1
+Bereg	5
+Eärnur	1
+High Eldarin	1
+Menelmacar	1
+Al	1
+Túna	4
+Laurelin	5
+Sam Athrad	1
+Silmarilli	1
+Eärwen	2
+Azaghâl	2
+Menegroth	11
+Galdor	4
+Amon Dîn	1
+Vana	1
+Tol Galen	4
+Boron	1
+Eregion	1
+Deldúwath	2
+Eöl	24
+Aredhel Ar-Feiniel	1
+Aradan	4
+Belegur	1
+Tulkas	12
+Emyn Arnen	1
+Dorthonion	7
+Weaver	2
+Ar-Feiniel	2
+King Greymantle	1
+Elu Thingol	1
+Rivil	2
+Urthel	1
+Bregolas	4
+Avallónë	2
+Amras	4
+Eldarin	1
+Elrond Half-elven	3
+Teleri	9
+Atanamir	3
+Turambar	30
+Varda	39

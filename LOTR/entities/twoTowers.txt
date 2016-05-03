@@ -1,0 +1,197 @@
+Helms	1
+Galadriel	18
+Aye	3
+Aglarond	1
+Dol Baran	1
+Moon	5
+Shadowfax saw Gandalf	1
+Loth	1
+Arod	6
+Hill	1
+Snowmane	1
+Gimli	184
+Ered Lithui	1
+Will Faramir	1
+Southerner	1
+Sarn Gebir	1
+Hamfast	1
+Shiretalk	1
+Isildur	2
+Lúthien	1
+bush	2
+John Ronald Reuel Tolkien	1
+Éomund	1
+Ufthak	1
+Beren	3
+Nazgûl	2
+Gimli Glóin	2
+Durin	2
+Samwise son of Hamfast	1
+Minas Ithil	1
+Hornblower	2
+Boromir	53
+Dagorlad	1
+Eärendil	1
+Peregrin Took	1
+Skinbark	3
+Sam	408
+Swift	1
+Toby	1
+Samwise	12
+Isildur Elendil	2
+Isen	16
+Fimbrethil	1
+Henneth Annûn	5
+Andúril	4
+Helm	1
+Felaróf	1
+Samwise Gamgee	1
+Elessar	2
+Gondor	25
+Mount Fang	1
+Lothlórien	4
+Lugbúrz	11
+Slinker	2
+Mark	8
+Andy	1
+Saruman	112
+Mundburg	1
+Hornburg	14
+Legolas	163
+S. Gamgee	1
+Mablung	8
+Rohirrim	2
+Lórien	5
+Sam Gamgee	7
+Mauhúr	2
+Amon Hen	3
+Gandalf	19
+Mirkwood	1
+Osgiliath	3
+Anborn	7
+Parth Galen	4
+Stone	1
+Gríma	9
+Gamgee	1
+Háma	16
+Master Samwise	4
+Thing	1
+Gárulf	1
+Pippin	154
+Lady Galadriel	2
+Erkenbrand	3
+Steward	1
+Elfhelm	1
+Tighfield	1
+Meriadoc Brandybuck	1
+Rohan Dusk	1
+Cirith Gorgor	1
+Wellinghall	1
+Longbottom Leaf	1
+Bilbo	8
+Nan Curunír	3
+Horn	1
+Hardy	1
+Gildor	1
+Tobold Hornblower	1
+Beaver	1
+Dawn	4
+Hart	1
+Jetsam Gandalf	1
+Grishnákh	26
+Samwise Frodo	1
+Shire	1
+Methedras	1
+Snaga	1
+Glóin	1
+Young	1
+Black	1
+Tom	1
+Mithrandir	6
+Gorgoroth	2
+Anduin	2
+Dale	1
+Sméagol	56
+North	1
+Tom Bombadil	1
+Hasufel	6
+Ithilien	1
+Ephel Dúath	6
+Stormcrow	1
+Torech Ungol	1
+Bregalad	8
+Elrond	7
+Meriadoc	1
+Stinker Slinker	1
+Gríma Wormtongue	1
+Damrod	8
+Sam lad	1
+Dwarf Glóin	1
+Quickbeam	2
+Brandybuck	1
+Arathorn	3
+Lady Éowyn	1
+gore	1
+Silmaril	2
+Harad	3
+Legolas Greenleaf	2
+Arod Legolas	1
+Gorbag	13
+Celebdil	1
+Sam `I	1
+Rohan	74
+Shadowfax	37
+Elbereth Gilthoniel	1
+Hoom	1
+Gandalf I	1
+Baggins	1
+Cirith Ungol	3
+Elrond Halfelven	1
+Gandalf Stormcrow	1
+Celeborn	2
+Finglas	1
+Heather	1
+Leaflock	3
+Dúnadan	2
+Caras Galadhon	2
+Entish	1
+Shagrat	19
+Gamling	6
+Laurelindórenan	2
+Amon Sûl	1
+Firefoot	1
+Théoden	75
+Lugdush	1
+Huorns	3
+Entwash	2
+Longbottom	1
+Strider	10
+Frodo	464
+Fangorn	6
+Merry	38
+Bree	1
+Umbar	1
+Éowyn	3
+Stinker	3
+Sauron	34
+Shelob	21
+Tol Brandir	1
+Grey	5
+Denethor	5
+Imlad Morgul	1
+Herugrim	1
+An Elf	1
+Éomer	67
+Lorien	1
+Isengard	29
+Faramir	132
+Gandalf Greyhame	2
+Drogo	6
+Carrion	1
+Telchar	1
+bracken	1
+Fladrif	2
+Uglúk	34
+Elendil	8
+Wormtongue	33
+Théoden Horsemaster	1
