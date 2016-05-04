@@ -8,8 +8,7 @@ def extract():
     base = 'LOTR/'
     sentenceDir = base + 'sentences/'
     entityDir = base + 'entities/'
-    files = [f for f in os.listdir(sentenceDir) \
-            if f.endswith('.txt')]
+    files = [f for f in os.listdir(sentenceDir) if f.endswith('.txt')]
 
     #TODO: Locate these files in your installation of the stanford-ner
     jarDir = 'stanford-ner-2014-06-16/stanford-ner.jar'

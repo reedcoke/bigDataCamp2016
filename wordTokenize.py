@@ -20,7 +20,7 @@ if __name__ == '__main__':
     base = 'LOTR/'
     raw = base + 'raw/'
     tokenized = base + 'sentences/'
-    files = os.listdir(raw)
+    files = [fname for fname in os.listdir(raw) if fname.endswith('.txt')]
     for fname in files:
         words = wordTokenize(os.path.join(raw, fname))
         #Write a new file for each book of LOTR

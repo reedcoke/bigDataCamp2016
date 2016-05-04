@@ -26,7 +26,7 @@ def gatherSentiment():
     #  MINQUOTES quotes
     dataDir = 'LOTR/characterQuotes'
     MINQUOTES = 100
-    speeches = [fname for fname in os.listdir(dataDir)]
+    speeches = [fname for fname in os.listdir(dataDir) if fname != '.gitignore']
 
     #Stanford sentiment gives text ratings, we want numeric ratings
     points = {'very negative' : -3, 'negative' : -1, 'neutral' : 0,
